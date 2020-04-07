@@ -20,7 +20,7 @@
     clear all;
 
     %% !!! CHANGE TO YOUR WORKING DIRECTORY !!!
-    path     = '/home/fips/Dropbox/Dissertation/octave/dahlquist/'; 
+    path     = 'xxx'; 
     
     src_path = strcat(path,'dahlquist_functions.m');  %% Functions file location
     dat_path = strcat(path,'data/');        %% Data Location
